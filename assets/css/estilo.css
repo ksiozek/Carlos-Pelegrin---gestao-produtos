@@ -1,0 +1,30 @@
+/* Paleta própria (troque os códigos pelas suas cores) */
+:root {
+    --cor-principal: #2f6f4e;
+    --cor-escura: #1f3d2f;
+    --cor-fundo: #f6f3ec;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: var(--cor-fundo) !important;
+}
+
+/* barra do menu */
+.navbar.bg-dark {
+    background-color: var(--cor-escura) !important;
+}
+
+/* botões principais */
+.btn-primary {
+    --bs-btn-bg: var(--cor-principal);
+    --bs-btn-border-color: var(--cor-principal);
+    --bs-btn-hover-bg: var(--cor-escura);
+    --bs-btn-hover-border-color: var(--cor-escura);
+    --bs-btn-active-bg: var(--cor-escura);
+}
+
+/* cartões com cantos mais arredondados */
+.card { border-radius: 12px; }
+
+h3, h5 { color: var(--cor-escura); }
