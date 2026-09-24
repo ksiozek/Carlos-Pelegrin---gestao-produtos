@@ -94,17 +94,27 @@ erDiagram
         int produto_id FK }
 ```
 
+
 ## Protótipos das telas (Figma)
 
-> Inserir aqui as imagens exportadas do Figma e o link do projeto.
+[Abertura do projeto no Figma](https://www.figma.com/proto/JQAyDyath9L1gSrqqF8PoT/Sistema-de-Gest%C3%A3o-de-Produtos---Esbo%C3%A7o--Lucas-Ksiozek-?node-id=0-1&t=nt53J7NAh7Kw3STk-1)
 
-| Tela | Imagem |
-|------|--------|
-| Login / Criar conta | `docs/figma-login.png` |
-| Cadastros | `docs/figma-cadastros.png` |
-| Gerenciar (AJAX) | `docs/figma-gerenciar.png` |
-| Produtos | `docs/figma-produtos.png` |
-| Minha Cesta | `docs/figma-cesta.png` |
+### Login e Criar conta
+![Login](docs/figma-login.png)
+
+### Cadastros
+![Cadastros](docs/figma-cadastros.png)
+
+### Gerenciar (AJAX)
+![Gerenciar](docs/figma-gerenciar.png)
+
+### Produtos
+![Produtos](docs/figma-produtos.png)
+
+### Minha Cesta
+![Cesta](docs/figma-cesta.png)
+
+
 
 ## Segurança
 
