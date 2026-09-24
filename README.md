@@ -8,8 +8,8 @@ Sistema web para cadastrar **fornecedores**, **produtos** e **cestas**, escolher
 
 | Nome | RA |
 |------|----|
-| _Nome do integrante 1_ | _RA_ |
-| _Nome do integrante 2_ | _RA_ |
+| Lucas Ksiozek Pereira | 60006032 |
+
 
 ## Funcionalidades
 
