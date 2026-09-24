@@ -59,9 +59,7 @@ gestao-produtos/
 
 ## Modelagem (DER)
 
-> Inserir aqui a imagem exportada do MySQL Workbench:
->
-> `![DER](docs/der.png)`
+![DER](docs/der.png)
 
 Versão em texto do relacionamento:
 
